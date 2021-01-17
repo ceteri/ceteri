@@ -11,6 +11,6 @@
 - :deciduous_tree: Fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, limoncello
 - :+1: animist, bioregionalist, /|\
 - :speech_balloon:
-  - Fluently: EN, Py
-  - Attempted: FR, ES, FA, CY, JA, AR, RU
-  - Others: Scala, Clojure, JavaScript, Bash, R, Java, C, C++, FORTRAN, LISP, Pascal, JCL, various assembly
+  - fluently: EN, Py
+  - attempts: FR, ES, FA, CY, JA, AR, RU
+  - other: Scala, Clojure, JavaScript, Bash, R, Java, C, C++, FORTRAN, LISP, Pascal, JCL, various assembly
