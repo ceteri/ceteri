@@ -5,7 +5,6 @@
 - 🔭 Currently working on: integrating [`kglab`](https://github.com/DerwenAI/kglab) with [`pytextrank`](https://github.com/DerwenAI/pytextrank)
   - hybrid AI for NLP: ML + semantic technologies + probabilistic logic + topological analysis
   - formalize methods for *graph-based data science* in piplines that leverage [`spaCy`](https://spacy.io/), [`ray`](https://ray.io/), etc.
-- substitute lead guitarist for the N Cal-based Viking revival band, "Valhella" (j/k)
 - :raised_hands: Looking to collaborate on: integrating a wide variety of Python libraries that provide a diversity of graph capabilties
 - 📫 How to reach me: Twitter, GitHub issues, public office hours, Signal; see info at <https://derwen.ai/paco>
 - 😄 Pronouns: he/him
