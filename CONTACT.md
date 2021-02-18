@@ -25,4 +25,4 @@ To paraphrase the incomparable Verner Twertzhog: `Fuck off, you ignorant little 
 Hear me now, and believe me later: except for personal matters, if you persist in using any form of email or messaging *other* than what's listed above  ... go fuck yourself; **you are the problem**.
 If you are a recruiter or sales rep who's been bombarding our firm with unsolicited email, calls, texts, messaging ... **go fuck yourself**; you are vile.
 To be clear, any requests for shared calendar represent security violations, and our corporate counsel will likely pursue criminal charges against you as an individual.
-Also, if you try to introduce me to people and scheduled a call without asking first, I'll probably come after you **with a goddam baseball bat**; you will deserve it. And you will like it, **or else**.
+Also, if you try to introduce me to people or schedule a call without asking first, I'll probably come after you **with a goddam baseball bat**; you will deserve it. And you will like it, **or else**.
