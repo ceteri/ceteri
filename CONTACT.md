@@ -1,7 +1,7 @@
 
 ## Contact info:
 
-Our firm uses secure email and Signal with our clientele.
+Our firm uses secure email and [Signal](https://signal.org/) with our clientele.
 Current clients, family, and close friends get priority for all communications.
 If you're interested in becoming a client, see our [*rate sheet*](https://derwen.ai/flywheel#rates) for details.
 
