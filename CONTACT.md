@@ -20,7 +20,7 @@ Otherwise, recognize that almost every social media platform promotes its own me
 At last count, there were **over a dozen** balkanized channels through which people attempt to engage me in allegedly professional communications.
 The word "ultimatum" would probably be a more apt than "engage" in these cases. 
 Many people even become indignant about not receiving prompt responses, as they've demanded.
-To paraphrase the incomparable Verner Twertzhog: `Fuck off, you ignorant little shit; where is your pathetic god now?` You're welcome.
+To paraphrase the incomparable Werner Twertzhog: `Fuck off, you ignorant little shit; where is your pathetic god now?` You're welcome.
 
 Hear me now, and believe me later: except for personal matters, if you persist in using any form of email or messaging *other* than what's listed above  ... go fuck yourself; **you are the problem**.
 If you are a recruiter or sales rep who's been bombarding our firm with unsolicited email, calls, texts, messaging ... **go fuck yourself**; you are vile.
