@@ -25,6 +25,6 @@ To paraphrase the incomparable Werner Herzog: `Fuck off, you ignorant little shi
 Hear me now, and believe me later: except for personal matters, if you use any form of email or messaging *other* than what's listed above ... **you are the problem**.
 If you persist in doing so ... go fuck yourself.
 If you happen to be a recruiter or sales rep who's been bombarding our firm with unsolicited email, calls, texts, messaging ... **go fuck yourself**; you are truly vile.
-My grandmother will gleefully feed your entrails to our pet komodo dragons.
+My grandmother will gleefully feed your entrails (after using them to scry) to our pet komodo dragons.
 To be clear, any requests for shared calendar represent security violations, and our corporate counsel will likely pursue criminal charges against you as an individual.
 Also, if you try to introduce me to people and schedule a call without asking first, I'll probably come after you **with a goddam baseball bat**; you will deserve it. And you will like it, **or else**.
