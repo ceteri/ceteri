@@ -9,7 +9,7 @@
 - 😄 pronouns: he/him
 - 📫 reach me: Twitter, GitHub issues, public office hours, Signal; see info at <https://derwen.ai/paco>
 - 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, limoncello
-- 🎬 favorite animation series: [Llamas with Hats](https://youtu.be/jJOwdrTA8Gw)
+- 🎬 favorite animation series: [*Llamas with Hats*](https://youtu.be/jJOwdrTA8Gw)
 - :cityscape: member: [ACM](https://member.acm.org/~paconathan), [PSF](https://www.python.org/users/pacoid/), [NumFOCUS](https://numfocus.org/), [ESIP](https://www.esipfed.org/)
 - [orcid.org/0000-0003-3167-1539](https://orcid.org/0000-0003-3167-1539)
 - 🚴 activities: cycling, kayaking, hiking
