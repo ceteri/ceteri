@@ -27,4 +27,4 @@ If you persist in doing so ...
 and especially if you happen to be a recruiter, sales rep, prospective investor, or secondary market broker who's been bombarding our firm with unsolicited email, calls, texts, messaging ... **go fuck yourself**; you are truly vile.
 My grandmother will gleefully feed your entrails (after using them to scry) to our pet komodo dragons.
 To be clear, any requests for shared calendar represent security violations, and our corporate counsel will likely pursue criminal charges against you as an individual.
-Also, if you try to introduce me to people and schedule a call without asking first, I'll probably come after you **with a goddam baseball bat**; you will deserve it. And you will like it, **or else**.
+You will deserve it. And you will like it, **or else**.
