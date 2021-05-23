@@ -2,9 +2,10 @@
 
 [![Paco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceteri)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Currently working on: integrating [`kglab`](https://github.com/DerwenAI/kglab) with [`pytextrank`](https://github.com/DerwenAI/pytextrank)
+- 🔭 Currently working on: integrating [`kglab`](https://github.com/DerwenAI/kglab), [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`mkrefs`](https://github.com/DerwenAI/mkrefs)
   - hybrid AI for NLP: ML + semantic technologies + graph algo + kge + probabilistic logic + topological analysis
-  - formalize methods for *graph-based data science* in piplines that leverage [`spaCy`](https://spacy.io/), [`RAPIDS`](https://rapids.ai/), [`Ray`](https://ray.io/), etc.
+  - formalize methods for *graph-based data science* in pipelines that leverage [`spaCy`](https://spacy.io/), [`RAPIDS`](https://rapids.ai/), [`Ray`](https://ray.io/), etc.
+  - "Thinking Sparse and Dense"
 - 🙌 collaborates on: integrating Python libraries that provide different kinds of graph capabilties
 - 😄 pronouns: he/him
 - 📫 reach me: Twitter, GitHub issues, public office hours, Signal; see info at <https://derwen.ai/paco>
@@ -15,9 +16,9 @@
 - 🚴 activities: cycling, kayaking, hiking
 - 👍 animist, bioregionalist, /|\
 - 💬
-  - fluently: EN, Py, RDF/OWL, NLP, ML, Distrib Systems, Optimization
+  - fluently: EN, Py, RDF/OWL/SKOS/SHACL, NLP, ML, NN, Distrib Systems, Optimization
   - attempts: FR, ES, FA, CY, JA, AR, RU, Abstract Algebra
-  - other: Scala, Clojure, JavaScript, Bash, R, Java, C, C++, FORTRAN, LISP, Pascal, JCL, various assembly
+  - other: Scala, Clojure, JavaScript, Bash, R, Java, C, C++, FORTRAN, LISP, Pascal, JCL, Spice, Verilog, various assembly
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pacoid.medium.com/)](https://pacoid.medium.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/story/1698443)](https://stackoverflow.com/users/story/1698443)
