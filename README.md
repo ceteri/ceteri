@@ -17,9 +17,9 @@
 - 🚴 activities: cycling, kayaking, hiking
 - 👍 animist, bioregionalist, /|\
 - 💬
-  - fluently: EN, Py, RDF/OWL/SKOS/SHACL, NLP, ML, NN, Distrib Systems, Optimization
+  - fluently: EN, Py, C++, Bash, RDF/OWL/SKOS/SHACL, NLP, ML, NN, Distrib Systems, Optimization
   - attempts: FR, ES, FA, CY, JA, AR, RU, Abstract Algebra
-  - other:  C++, Scala, Clojure, JavaScript, Bash, R, Java, C, FORTRAN, LISP, Pascal, JCL, Spice, Verilog, various assembly
+  - other:  Scala, Clojure, JavaScript, R, Java, C, FORTRAN, LISP, Pascal, JCL, Spice, Verilog, various assembly
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pacoid.medium.com/)](https://pacoid.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ceteri/)](https://www.linkedin.com/in/ceteri/)
