@@ -9,7 +9,7 @@
 - see also: <https://stackoverflow.com/users/1698443/paco>
 - 🙌 collaborates on: integrating Python libraries that provide different kinds of graph capabilties
 - 😄 pronouns: he/him
-- 📫 reach me: <https://derwen.ai/paco>, [Twitter](https://twitter.com/pacoid), GitHub issues, public office hours, Signal
+- 📫 reach me: <https://derwen.ai/paco>, [Twitter](https://twitter.com/pacoid), GitHub issues, Signal
 - 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, limoncello
 - 🎬 favorite animation series: [*Llamas with Hats*](https://youtu.be/jJOwdrTA8Gw)
 - :cityscape: member: [ACM](https://member.acm.org/~paconathan), [PSF](https://www.python.org/users/pacoid/), [NumFOCUS](https://numfocus.org/), [ESIP](https://www.esipfed.org/), [KGC](https://www.knowledgegraph.tech/)
