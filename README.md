@@ -7,7 +7,7 @@
   - formalize methods for *graph data science* in pipelines that leverage [`spaCy`](https://spacy.io/), [`RAPIDS`](https://rapids.ai/), [`Ray`](https://ray.io/), etc.
   - "Thinking Sparse and Dense"
 - see also: <https://stackoverflow.com/users/1698443/paco>
-- 🙌 collaborates on: integrating Python libraries that provide different kinds of graph capabilties
+- 🙌 collaborates on: integrating Python libraries that provide different kinds of graph capabilities
 - 😄 pronouns: he/him
 - 📫 reach me: <https://derwen.ai/paco>, [@pacoid@mastodon.green](https://mastodon.green/web/@pacoid), Signal
 - 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, limoncello
