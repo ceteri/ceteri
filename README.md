@@ -1,10 +1,13 @@
-### Wash warm, tumble dry 👋
+### Wash Warm, Tumble Dry 👋
 
 [![Paco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceteri)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭☕🛠️ Currently working on integrating [`kglab`](https://github.com/DerwenAI/kglab), [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`mkrefs`](https://github.com/DerwenAI/mkrefs)
-  - natural language + graph technologies
-  - formalize methods for *graph data science* in pipelines that leverage [`spaCy`](https://spacy.io/), [`RAPIDS`](https://rapids.ai/), etc.
+- 🔭☕🛠️ Currently working on ...
+  - natural language + graph technologies + probabilistic data structures
+  - managing partner @ [derwen.ai](https://derwen.ai/)
+  - advisor and board member @ [argilla.io](https://argilla.io)
+  - enhancements and integrations for [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`kglab`](https://github.com/DerwenAI/kglab), [`mkrefs`](https://github.com/DerwenAI/mkrefs)
+  - formalizing methods for *graph data science* in pipelines that leverage [`argilla`](https://argilla.io), [`spaCy`](https://spacy.io/), [`kuzu`](https://kuzudb.com), [`RAPIDS`](https://rapids.ai/), etc.
   - ["Thinking Sparse and Dense"](https://derwen.ai/s/5sfp#1)
 - see also: <https://stackoverflow.com/users/1698443/paco>
 - 🙌 collaborates on: integrating Python libraries that provide different kinds of graph capabilities
@@ -12,7 +15,7 @@
 - 📫 reach me: <https://derwen.ai/paco>, [@pacoid@mastodon.green](https://mastodon.green/web/@pacoid), Signal
 - 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, limoncello
 - 🎬 favorite animation series: [*Llamas with Hats*](https://youtu.be/jJOwdrTA8Gw)
-- :cityscape: member: [ACM](https://member.acm.org/~paconathan), [PSF](https://www.python.org/users/pacoid/), [NumFOCUS](https://numfocus.org/), [ESIP](https://www.esipfed.org/), [KGC](https://www.knowledgegraph.tech/)
+- :cityscape: member: [ACM](https://member.acm.org/~paconathan), [PSF](https://www.python.org/users/pacoid/), [NumFOCUS](https://numfocus.org/), [ESIP](https://www.esipfed.org/)
 - [orcid.org/0000-0003-3167-1539](https://orcid.org/0000-0003-3167-1539) | [:books:](https://scholar.google.com/citations?user=Cp5sZHIAAAAJ&hl=en)
 - 🚴 activities: cycling, kayaking, hiking
 - 👍 animist, bioregionalist, /|\
