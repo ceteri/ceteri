@@ -8,7 +8,7 @@ If you're interested in becoming a client, see our [*rate sheet*](https://derwen
 For other community discussions, I am actively engaged in
 [Mastodon public timeline](https://mastodon.green/@pacoid),
 [Twitter public timeline](https://twitter.com/pacoid),
-the ["Graph-Based Data Science" LinkedIn group](https://www.linkedin.com/groups/6725785/),
+the ["Graph Data Science" LinkedIn group](https://www.linkedin.com/groups/6725785/),
 [GitHub issues for multiple open source projects](https://github.com/ceteri),
 and
 [StackOverflow Q&A](https://stackoverflow.com/users/1698443/paco).
