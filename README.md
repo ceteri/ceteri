@@ -3,9 +3,9 @@
 [![Paco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceteri)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭☕🛠️ Currently working on integrating [`kglab`](https://github.com/DerwenAI/kglab), [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`mkrefs`](https://github.com/DerwenAI/mkrefs)
-  - hybrid AI: ML + NLP + semantic technologies + graph algo + GNN + probabilistic logic
-  - formalize methods for *graph data science* in pipelines that leverage [`spaCy`](https://spacy.io/), [`RAPIDS`](https://rapids.ai/), [`Ray`](https://ray.io/), etc.
-  - "Thinking Sparse and Dense"
+  - natural language + graph technologies
+  - formalize methods for *graph data science* in pipelines that leverage [`spaCy`](https://spacy.io/), [`RAPIDS`](https://rapids.ai/), etc.
+  - ["Thinking Sparse and Dense"](https://derwen.ai/s/5sfp#1)
 - see also: <https://stackoverflow.com/users/1698443/paco>
 - 🙌 collaborates on: integrating Python libraries that provide different kinds of graph capabilities
 - 😄 pronouns: he/him
