@@ -7,7 +7,7 @@
   - managing partner @ [derwen.ai](https://derwen.ai/)
   - advisor and board member @ [argilla.io](https://argilla.io)
   - enhancements and integrations for [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`kglab`](https://github.com/DerwenAI/kglab), [`mkrefs`](https://github.com/DerwenAI/mkrefs)
-  - API development with [FastAPI](https://fastapi.tiangolo.com/), [Pydantic](https://docs.pydantic.dev/latest/), [`pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
+  - API development with [FastAPI](https://fastapi.tiangolo.com/), [Pydantic](https://docs.pydantic.dev/latest/), [`pydantic-aioredis`](https://github.com/andrewthetechie/pydantic-aioredis)
   - formalizing methods for *graph data science* in pipelines that leverage [`argilla`](https://argilla.io), [`spaCy`](https://spacy.io/), [`kuzu`](https://kuzudb.com), [`RAPIDS`](https://rapids.ai/), etc.
   - ["Thinking Sparse and Dense"](https://derwen.ai/s/5sfp#1)
 - see also: <https://stackoverflow.com/users/1698443/paco>
