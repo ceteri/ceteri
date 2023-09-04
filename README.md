@@ -11,16 +11,16 @@
   - formalizing methods for *graph data science* in pipelines that leverage [`argilla`](https://argilla.io), [`spaCy`](https://spacy.io/), [`kuzu`](https://kuzudb.com), [`RAPIDS`](https://rapids.ai/), etc.
   - ["Thinking Sparse and Dense"](https://derwen.ai/s/5sfp#1)
 
-- 😄 pronouns: he/him
 - 💬
   - fluently: EN, Py, C++, JavaScript, Bash, RDF/OWL/SKOS/SHACL, LPG, NLP, ML, NN, Distrib Systems, Optimization
   - conversationally: FR, ES
   - attempts: FA, CY, JA, AR, RU, Abstract Algebra
-  - other:  Scala, Clojure, R, Java, C, FORTRAN, LISP, Pascal, JCL, Spice, Verilog, various assembly
+  - etc:  Scala, Clojure, R, Java, C, FORTRAN, LISP, Pascal, JCL, Spice, Verilog, various assembly
+  - pronouns: he/him
+  - 📫 reach me: <https://derwen.ai/paco>, [@pacoid@mastodon.green](https://mastodon.green/web/@pacoid), Signal
 
-- 📫 reach me: <https://derwen.ai/paco>, [@pacoid@mastodon.green](https://mastodon.green/web/@pacoid), Signal
-- see also: <https://stackoverflow.com/users/1698443/paco>
 - 🙌 collaborates on: integrating Python libraries that provide different kinds of language or graph capabilities
+  - see also: <https://stackoverflow.com/users/1698443/paco>
 
 - 👍 animist, bioregionalist, /|\
 - 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, limoncello
