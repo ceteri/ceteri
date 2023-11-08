@@ -14,7 +14,7 @@
 - 💬
   - fluently: EN, Py, C++, JavaScript, Bash, RDF/OWL/SKOS/SHACL, LPG, NLP, ML, NN, Distrib Systems, Optimization
   - conversationally: FR, ES
-  - attempts: FA, CY, JA, AR, RU, Abstract Algebra
+  - attempts: FA, CY, JA, AR, RU, Abstract Algebra, Topology
   - etc:  Scala, Clojure, R, Java, C, FORTRAN, LISP, Pascal, JCL, Spice, Verilog, various assembly
   - pronouns: he/him
   - 📫 reach me: <https://derwen.ai/paco>, [@pacoid@mastodon.green](https://mastodon.green/web/@pacoid), Signal
