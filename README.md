@@ -5,7 +5,7 @@
 - 🔭☕🛠️ Currently working on ...
   - natural language + graph technologies + probabilistic data structures, see <https://huggingface.co/pacoid>
   - managing partner @ [derwen.ai](https://derwen.ai/)
-  - advisor + board member @ [argilla.io](https://argilla.io); advisor @ [kungfu.ai](https://kungfu.ai); advisor @ [dataspartan](https://www.dataspartan.co.uk/); advisor @ [common action](https://github.com/commonaction)
+  - advisor + board member @ [argilla.io](https://argilla.io); advisor @ [kungfu.ai](https://kungfu.ai); advisor @ [dataspartan](https://www.dataspartan.co.uk/)
   - enhancements and integrations for [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`kglab`](https://github.com/DerwenAI/kglab), [`mkrefs`](https://github.com/DerwenAI/mkrefs), [`disparity_filter`](https://github.com/DerwenAI/disparity_filter/)
   - API development with [`fastapi`](https://fastapi.tiangolo.com/), [`pydantic`](https://docs.pydantic.dev/latest/), [`pydantic-aioredis`](https://github.com/andrewthetechie/pydantic-aioredis)
   - formalizing methods for *graph data science* in pipelines that leverage [`argilla`](https://argilla.io), [`spaCy`](https://spacy.io/), [`openCypher`]([https://kuzudb.com](https://opencypher.org/)), [`RAPIDS`](https://rapids.ai/), etc.
