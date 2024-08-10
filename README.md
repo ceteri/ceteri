@@ -4,7 +4,7 @@
 
 - 🔭☕🛠️ Currently working on ...
   - [entity resolved knowledge graphs](https://github.com/DerwenAI/ERKG)
-  - natural language + graph technologies + probabilistic data structures, see <https://huggingface.co/pacoid>
+  - natural language + entity resolution + graph technologies + machine learning, see <https://huggingface.co/pacoid>
   - devrel @ [senzing.com](https://senzing.com/)
   - managing partner @ [derwen.ai](https://derwen.ai/)
   - advisor + board member @ [argilla.io](https://argilla.io); advisor @ [kungfu.ai](https://kungfu.ai); advisor @ [dataspartan](https://www.dataspartan.co.uk/) ; advisor @ [kurve.ai](https://kurve.ai)
