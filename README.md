@@ -21,7 +21,7 @@
 
 - :books: publications: [orcid.org/0000-0003-3167-1539](https://orcid.org/0000-0003-3167-1539) | [google scholar](https://scholar.google.com/citations?user=Cp5sZHIAAAAJ&hl=en)
 - :cityscape: member: [ACM](https://member.acm.org/~paconathan), [PSF](https://www.python.org/users/pacoid/), [NumFOCUS](https://numfocus.org/), [ESIP](https://www.esipfed.org/), [GraphGeeks](https://www.graphgeeks.org/)
-- 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, gelato, sorbet, ...
+- 🌳 fun fact: lives on an apple orchard in the Redwoods near the coast, making cider, mead, gelato, ...
 - 🎬 favorite animation series: [*Llamas with Hats*](https://youtu.be/jJOwdrTA8Gw)
 - 🚴 activities: cycling, kayaking, hiking, /|\
 
