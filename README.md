@@ -5,7 +5,7 @@
 - 🔭☕🛠️ Currently working on ...
   - [entity resolved knowledge graphs](https://github.com/DerwenAI/ERKG): entity resolution + graph technologies + natural language +  machine learning
   - principal devrel eng @ [senzing.com](https://senzing.com/), see <https://sessionize.com/pacoid/>
-  - advisor @ [kurve](https://kurve.ai); [emergentmethods](https://emergentmethods.ai/); [kungfu.ai](https://kungfu.ai); [dataspartan](https://www.dataspartan.co.uk/)
+  - advisor @ [kurve](https://kurve.ai); [emergentmethods](https://emergentmethods.ai/)
   - *graph data science* in general -- see: <https://www.linkedin.com/groups/6725785/>
   - enhancements and integrations for [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`kglab`](https://github.com/DerwenAI/kglab), [`mkrefs`](https://github.com/DerwenAI/mkrefs), [`disparity_filter`](https://github.com/DerwenAI/disparity_filter/)
 
