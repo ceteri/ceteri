@@ -1,6 +1,6 @@
 ### Wash Warm, Tumble Dry 👋
 
-[![Paco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceteri)](https://github.com/anuraghazra/github-readme-stats)
+[![Paco's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ceteri](https://github-readme-stats.vercel.app/api?username=ceteri&theme=default&show_icons=true&hide_border=true&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭☕🛠️ Currently working on ...
   - [entity resolved knowledge graphs](https://github.com/DerwenAI/ERKG): entity resolution + graph technologies + natural language +  machine learning
