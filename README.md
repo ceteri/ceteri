@@ -7,7 +7,7 @@
   - principal devrel eng @ [senzing.com](https://senzing.com/), see <https://sessionize.com/pacoid/>
   - advisor @ [kurve](https://kurve.ai); [emergentmethods](https://emergentmethods.ai/)
   - *graph data science* in general -- see: <https://www.linkedin.com/groups/6725785/>
-  - enhancements and integrations for [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`kglab`](https://github.com/DerwenAI/kglab), [`mkrefs`](https://github.com/DerwenAI/mkrefs), [`disparity_filter`](https://github.com/DerwenAI/disparity_filter/)
+  - enhancements and integrations for [`strwythura`](https://github.com/DerwenAI/strwythura), [`pytextrank`](https://github.com/DerwenAI/pytextrank), [`kglab`](https://github.com/DerwenAI/kglab)
 
 - 💬
   - fluently: EN, Py, C++, JavaScript, Bash, LPG, RDF/OWL/SKOS/SHACL, NLP, ML, Neural Networks, Distrib Systems, Optimization
